@@ -109,9 +109,8 @@ Cela force le modèle à renvoyer une **réponse en JSON**, ce qui :
 
 ##  Galerie de photos du projet
 
-Voici les captures d’écran illustrant votre application météo :
+Voici les captures d’écran illustrant L'application météo :
 
-```markdown
 ![Capture 1](./photos/1.png)
-![Capture 2](photos/2.png)
-![Capture 3](photos/3.png)
+![Capture 2](./photos/2.png)
+![Capture 3](./photos/3.png)
